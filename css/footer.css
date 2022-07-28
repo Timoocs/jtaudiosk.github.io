@@ -1,0 +1,17 @@
+footer{
+background-image: linear-gradient(to bottom, rgb(49, 34, 34), rgb(41, 38, 38));
+padding: 1rem
+}
+.footer-article{
+    text-align: center;
+}
+.copy{
+    text-align: center;
+}
+.socials{
+    display: flex;
+    justify-content: center;
+}
+.soclogos{
+    width: 5rem;
+}

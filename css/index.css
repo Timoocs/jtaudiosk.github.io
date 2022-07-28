@@ -1,0 +1,42 @@
+
+body{
+    background-image: linear-gradient(to bottom, rgb(255, 86, 74), black);
+    background-repeat: no-repeat;
+    height: 1080px;
+    margin: 0;
+    color: white;
+    font-family: "Source Sans Pro";
+
+}
+section{
+    text-align: center;
+    padding: 1rem;
+    position: relative;
+    background-image: linear-gradient(to bottom, rgb(255, 86, 74), rgb(49, 34, 34));
+    
+}
+article{
+    text-align: left;
+    
+    border-top: 0.1rem solid white;
+}
+/*LOGA*/
+.spoluprace{
+  
+   width: clamp(1rem, 60%, 10rem);
+   margin: 0;
+   padding: 0;
+   margin-left: 1rem;
+   
+}
+/*P ELEMENT*/
+.spolupraca{
+    display: grid;
+    text-align: center;
+ 
+    
+}
+/*H1*/
+.spolupracujeme{
+    text-align: center;
+}

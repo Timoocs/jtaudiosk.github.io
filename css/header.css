@@ -1,0 +1,53 @@
+header{
+    
+    display: flex   ;
+    color: white;
+    
+    height: 80vh;
+    background-image: url(../photos/banner.jpg);
+    background-repeat: no-repeat; 
+    background-position: 29% 20%;
+    
+    background-size: cover;
+    
+    
+    
+}
+.logonav{
+    height: 4rem;
+    
+}
+nav{
+
+display: flex;
+justify-content: center;
+margin: 0;
+
+background: rgba(0, 0, 0, 50%);
+
+   
+    width: 100vw;
+    height: 12%;
+    padding: 0.3rem 0 0;
+    
+    
+}
+
+
+.nav{
+    display: grid;
+grid-template-columns: 50% 1fr;
+margin-left: 0.4rem;
+gap: 1rem;
+
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+ 
+    
+
